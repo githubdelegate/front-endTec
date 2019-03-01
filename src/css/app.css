@@ -1,1 +1,38 @@
-@import './button.css'
+@import './button.css';
+
+page {
+  background-color: #f8f8f8;
+  font-size: 16px;
+  font-family: -apple-system-font, Helvetica Neue, Helvetica, sans-serif;
+}
+
+.page_hd {
+  padding: 40px;
+}
+
+.page_bf {
+  padding-bottom: 40px;
+}
+
+.page_bd_spacing {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.page_ft {
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.page_title {
+  text-align: left;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.page_desc {
+  margin-top: 5px;
+  color: #888888;
+  text-align: left;
+  font-size: 14px;
+}

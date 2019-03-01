@@ -1,5 +1,7 @@
 import Vue from 'vue'
 import App from './index'
+import '../../css/app.css'
+import '../../../static/weui/weui.css'
 
 // add this to handle exception
 Vue.config.errorHandler = function (err) {

@@ -1,0 +1,11 @@
+.button-sp-area {
+  margin: 0 auto;
+  padding-top: 15px;
+  width: 60%;
+}
+
+.min-btn {
+  /* // !import 可以区分firefox 和ie */
+  width: auto !important; 
+  margin-right: 5px !important;
+}
