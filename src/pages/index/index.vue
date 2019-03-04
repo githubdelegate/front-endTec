@@ -18,7 +18,7 @@
           <div :class="{'kind-list_item-bd_show':item.open}" class="kind-list_item-bd">
             <div :class="{'weui-cells_show':item.open}" class="weui-cells">
               <div v-for="(subitem,subindex) in item.pages" :key="subindex">
-                <navigator class="weui-cell weui-cell_access" :url="''">
+                <navigator class="weui-cell weui-cell_access" url="/pages/button/main">
                   <div class="weui-cell__bd">{{subitem}}</div>
                   <div class="weui-cell__ft weui-cell__ft_in-access"></div>
                 </navigator>
@@ -40,7 +40,7 @@ export default {
           id: "form",
           name: "表单",
           open: false,
-          pages: ["pages","list","slider"]
+          pages: ["button","list","slider"]
         }
       ]
     }
