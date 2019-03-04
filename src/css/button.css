@@ -4,7 +4,7 @@
   width: 60%;
 }
 
-.min-btn {
+.mini-btn {
   /* // !import 可以区分firefox 和ie */
   width: auto !important; 
   margin-right: 5px !important;
