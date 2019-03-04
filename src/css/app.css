@@ -1,6 +1,6 @@
 @import './button.css';
 
-page {
+.page {
   background-color: #f8f8f8;
   font-size: 16px;
   font-family: -apple-system-font, Helvetica Neue, Helvetica, sans-serif;
@@ -10,7 +10,7 @@ page {
   padding: 40px;
 }
 
-.page_bf {
+.page_bd {
   padding-bottom: 40px;
 }
 
