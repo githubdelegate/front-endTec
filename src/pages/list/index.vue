@@ -52,9 +52,6 @@
           <div class="weui-cell__ft weui-cell__ft_in-access">说明文字</div>
         </navigator>
       </div>
-
-
-
     </div>
   </div>
 </template>
