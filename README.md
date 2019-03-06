@@ -1,6 +1,6 @@
 # mpvue_demo
 
-> A Mpvue project
+> 使用 mpvue练习写微信小程序
 
 ## Build Setup
 
