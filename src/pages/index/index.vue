@@ -41,6 +41,12 @@ export default {
           name: "表单",
           open: false,
           pages: ["button","list","input","slider","uploader"]
+        },
+        {
+          id: "widget",
+          name: "基础",
+          open: false,
+          pages: ["article"]
         }
       ]
     }
